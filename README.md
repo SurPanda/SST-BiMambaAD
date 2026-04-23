@@ -33,4 +33,4 @@ keywords = {Video Anomaly Detection,Anomaly Recognition,Vision–Language Model,
 
 # Architecture
 
-  <img src="media/Architecture.png" alt="Local Pic" width="700"/>
+  <img src="Media/Architecture.png" alt="Local Pic" width="700"/>
