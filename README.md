@@ -5,7 +5,7 @@ The source codes of "**SST-BiMambaAD: Shared Spatiotemporal Bidirectional Mamba 
 To cite this work:
 
 ```
-@article{WANG2026104230,
+@article{
 title = {SST-BiMambaAD: Shared Spatiotemporal Bidirectional Mamba for Vision–Language Video Anomaly Detection in Urban Infrastructure Monitoring},
 journal = {Advanced Engineering Informatics},
 volume = {},
